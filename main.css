@@ -1,5 +1,5 @@
 body {
-  background: url(https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gi) black no-repeat center center fixed;
+  background: url(https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif) black no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -10,7 +10,7 @@ body {
 }
 
 h1, h2 {
-    background-color: rgba(150, 255, 150, .5);
+    background-color: rgba(10, 170, 10, .7);
     color: silver;
     text-align: center;
 }
